@@ -4,6 +4,12 @@ hr {
 }
 
 
+ .fancy-text {
+	font-family: 'Architects Daughter', sans-serif;   /* 1st font is the custom, 2nd is the fallback */
+}
+
+
+
 /* Jumbotron ================================= */
 
 .jumbotron {
@@ -33,3 +39,6 @@ hr {
 	border-radius: 100%;
 }
 
+
+
+class="fancy-text"
